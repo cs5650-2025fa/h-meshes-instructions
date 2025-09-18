@@ -17,10 +17,10 @@
 
 ## Overview
 
-Watch the **[solution video](https://drive.google.com/file/d/1uxtplqZLlvTTZzb9X8pjdCRNk3oZq-cD/view?usp=sharing)** (requires Cornell account).
+Watch the **[solution video](https://drive.google.com/file/d/1tutv0MiE5xU9nfcWrEMdautIHz5KMqzu/view?usp=drive_link)** (requires Cornell account).
 
 Screenshot of the solution:
-[![here](assets/images/meshes.png)](https://drive.google.com/file/d/1uxtplqZLlvTTZzb9X8pjdCRNk3oZq-cD/view?usp=sharing)
+[![here](assets/images/meshes.png)]([https://drive.google.com/file/d/1uxtplqZLlvTTZzb9X8pjdCRNk3oZq-cD/view?usp=sharing](https://drive.google.com/file/d/1tutv0MiE5xU9nfcWrEMdautIHz5KMqzu/view?usp=drive_link))
 
 Screenshot of the initial scene:
 ![Meshes blank](assets/images/meshes_blank.png)
